@@ -10,4 +10,4 @@ Projeto de uma landing page para uma cafeteria ☕
 - CSS
 
 ## O que eu aprendi?
-Através desse projeto pude aprender e colocar em prática alguns conceitos de HTML e CSS como o display-flex e responsividade.
+Através desse projeto pude aprender e colocar em prática alguns conceitos de HTML e CSS como o flexbox e a responsividade.
